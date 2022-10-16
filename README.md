@@ -1,5 +1,5 @@
 ### Namaste! I am Takshil 👋
-#A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world.
+_A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world.
 
 - 🔭 I’m currently working on SICKICKS App
 - 🌱 I’m currently learning Flutter for Cross-Platform application development
