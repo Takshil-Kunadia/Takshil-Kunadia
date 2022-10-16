@@ -1,4 +1,4 @@
-### Namaste! I am Takshil 👋
+### Namaste! I am an App Developer, Programmer and Graphics Designer/Editor👋
 _A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world._
 
 - 🔭 I’m currently working on SICKICKS App
