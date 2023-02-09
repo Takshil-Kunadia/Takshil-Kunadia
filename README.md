@@ -1,4 +1,4 @@
-### Namaste! I am an Software Developer, Programmer and Graphics Designer/Editor👋
+### Namaste! I am a Software Developer, Programmer and Graphics Designer/Editor👋
 _A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world._
 
 - 🔭 I’m currently working @rtCamp as a Web Engineer Trainee
