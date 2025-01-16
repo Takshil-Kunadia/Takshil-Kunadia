@@ -1,4 +1,4 @@
-### Jai Shree Krishna! I am a Software Developer/Programmer & Graphics Designer/ Video Editor👋
+### Hey there!👋
 _A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world._
 
 - 👨🏻‍💻 I’m currently working @rtCamp as a Web Engineer Trainee
