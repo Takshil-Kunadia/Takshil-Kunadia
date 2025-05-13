@@ -1,9 +1,9 @@
 ### Hey there!👋
-_A Passionate CS student , excited to be a part of the change that innovative technologies bring to the world._
+_A Passionate engineer, excited to be a part of the change that innovative technologies bring to the world._
 
-- 👨🏻‍💻 I’m currently working @rtCamp as a Web Engineer Trainee
+- 👨🏻‍💻 I’m currently working @rtCamp as a Software Engineer.
 - 💻 I am proficient in WordPress Development - Plugins, Themes, Blocks, CLI.
-- 🔭 I’m currently learning React & Three.js
+- 🔭 I’m currently system design and devops.
 - 🌱 I’m looking to collaborate on open-source projects
 - 📫 Reach me @: [LinkedIn](https://www.linkedin.com/in/takshil-kunadia/)
-- ⚡ Fun fact: I am a Movie/Series Connoiseur, might have watched over 600 movies in my life time. Hasta La Vista Baby!
+- ⚡ Fun fact: I am obsessed with Cinema🎞️.
